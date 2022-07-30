@@ -17,3 +17,6 @@ GP9 = IT,
 GP10 = PO,
 GP11 = SW,
 GP12 = TR.
+
+
+Simply copy all the files to your circuitpython device.
