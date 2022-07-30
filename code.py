@@ -1,6 +1,6 @@
 """
 This Script is made by Lazymaz
-------------------------------
+-------------------------------
 Do you know that UI of Arch? Ugh, that full screen Shell with lots of text,
 and also the Installation, more painful. Let's make it easy.
 And that why I made this Script.
