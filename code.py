@@ -175,7 +175,7 @@ while True:
             keyboard.press(keycode_us.ENTER)
             sleep(0.1)
             keyboard.release(keycode_us.ENTER)
-        us_layout.write("pacman -S python-archinstall")
+        us_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_us.ENTER)
         sleep(0.1)
@@ -231,7 +231,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_de.ENTER)
             
-        de_layout.write("pacman -S python-archinstall")
+        de_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_de.ENTER)
         sleep(0.1)
@@ -287,7 +287,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_dvo.ENTER)
             
-        dvo_layout.write("pacman -S python-archinstall")
+        dvo_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_dvo.ENTER)
         sleep(0.1)
@@ -345,7 +345,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_br.ENTER)
             
-        br_layout.write("pacman -S python-archinstall")
+        br_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_br.ENTER)
         sleep(0.1)
@@ -457,7 +457,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_cz1.ENTER)
             
-        cz1_layout.write("pacman -S python-archinstall")
+        cz1_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_cz1.ENTER)
         sleep(0.1)
@@ -512,7 +512,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_es.ENTER)
             
-        es_layout.write("pacman -S python-archinstall")
+        es_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_es.ENTER)
         sleep(0.1)
@@ -622,7 +622,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_hu.ENTER)
             
-        hu_layout.write("pacman -S python-archinstall")
+        hu_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_hu.ENTER)
         sleep(0.1)
@@ -677,7 +677,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_it.ENTER)
             
-        it_layout.write("pacman -S python-archinstall")
+        it_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_it.ENTER)
         sleep(0.1)
@@ -732,7 +732,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_po.ENTER)
             
-        po_layout.write("pacman -S python-archinstall")
+        po_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_po.ENTER)
         sleep(0.1)
@@ -787,7 +787,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_sw.ENTER)
             
-        sw_layout.write("pacman -S python-archinstall")
+        sw_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_sw.ENTER)
         sleep(0.1)
@@ -842,7 +842,7 @@ while True:
             sleep(0.1)
             keyboard.release(keycode_tr.ENTER)
             
-        tr_layout.write("pacman -S python-archinstall")
+        tr_layout.write("pacman -Sy && pacman -S python-archinstall")
         sleep(0.1)
         keyboard.press(keycode_tr.ENTER)
         sleep(0.1)
